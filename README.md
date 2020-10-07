@@ -2,6 +2,9 @@
 
 *Learning Autograding with C/C++ and Catch2 - Prof. Igor Machado Coelho*
 
+**IMPORTANT:** If autograding (GitHub Actions) doesn't start for you, *check again the Invitation Link for
+the activity* and hit the link named **update**.
+
 ## Full-Name-Of-Student
 
 **TODO - Please put your name in this README**
