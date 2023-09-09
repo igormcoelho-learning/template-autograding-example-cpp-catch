@@ -3,7 +3,7 @@
 #include <tuple>
 
 #define CATCH_CONFIG_MAIN // defines main() automatically
-#include "catch_amalgamated.hpp"
+#include "catch.hpp"
 
 #include "student.hpp" // student implementations
 
